@@ -1,0 +1,2 @@
+# gimmeashop
+Test static testing
